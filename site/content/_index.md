@@ -1,21 +1,22 @@
 ---
 title: Your next career step with European Education Counsellor
-subtitle: We support your ambitions while you enjoy a cup of coffe
+subtitle: Support your ambitions while enjoying your cup of coffee
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: What is EEC?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    EEC is partner for everyone who believe that great career doesn't just come
+    by chance but are created by opening the right opportunities. We provide
+    aspiring students achieve their dream of higher studies in Europe, be it
+    bachelors or masters.
 intro:
-  heading: What we offer
+  heading: What do we offer?
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We walked the same path that you are dreaming of. We studied in Europe. We
+    know the pain and hassle. And then we took it upon us to make this journey a
+    cakewalk for you. Simply put, we will have couple of coffee talks with you,
+    while we sort everything in the background, until you are ready to
+    confidently fly to Europe for your next degree.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
