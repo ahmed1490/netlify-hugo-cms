@@ -1,5 +1,5 @@
 ---
-title: Your next career step with European Education Counsellor
+title: Your next career step with European Education Counsellors
 subtitle: Support your ambitions while enjoying your cup of coffee
 image: /img/home-jumbotron.jpg
 blurb:
@@ -12,11 +12,11 @@ blurb:
 intro:
   heading: What do we offer?
   text: >-
-    We walked the same path that you are dreaming of. We studied in Europe. We
-    know the pain and hassle. And then we took it upon us to make this journey a
-    cakewalk for you. Simply put, we will have couple of coffee talks with you,
-    while we sort everything in the background, until you are ready to
-    confidently fly to Europe for your next degree.
+    We walked the same path that you dream of. Our members studied in Europe. We
+    know the pain and hassle. So, we took it upon us to make this journey easy
+    for you. Simply put, we will have couple of coffee talks with you, while we
+    sort everything for you, until you are ready to confidently fly to Europe
+    for your next degree.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
