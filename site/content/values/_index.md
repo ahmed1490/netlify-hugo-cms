@@ -1,5 +1,5 @@
 ---
-title: Values
+title: The admission process
 image: /img/about-jumbotron.jpg
 values:
   - heading: 1. Our first coffee talk
@@ -30,7 +30,7 @@ values:
       That’s why we reinvest 20% of our profits into farms, local businesses and
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
-  - heading: 'Final: Apply visa '
+  - heading: 'Finally, apply visa!'
     imageUrl: /img/about-direct-sourcing.jpg
     text: >
       We want to truly empower the communities that bring amazing coffee to you.
