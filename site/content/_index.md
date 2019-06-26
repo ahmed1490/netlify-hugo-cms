@@ -33,11 +33,12 @@ products:
 
       - T Gupta 
 values:
-  heading: Our values
+  heading: What is the process?
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Alright, Lets start! We made the process very simple for you to understand.
+    The whole process has 4 major steps. Each step requires further
+    consideration based on different criteria and needs from you, the
+    university, the course you are interested in and the consulate you will
+    apply to.
 ---
 
