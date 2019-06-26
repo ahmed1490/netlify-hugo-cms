@@ -11,26 +11,27 @@ blurb:
     bachelors or masters.
 intro:
   heading: What do we offer?
-  text: >-
+  text: >
     We walked the same path that you dream of. Our members studied in Europe. We
     know the pain and hassle. So, we took it upon us to make this journey easy
     for you. Simply put, we will have couple of coffee talks with you, while we
     sort everything for you, until you are ready to confidently fly to Europe
-    for your next degree. All the key decision will be made by you.
+    for your next degree. All the key decision will be yours.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/illustrations-tutorials.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+      "Thank you so much for your help. Talking to guys at EEC was exactly what
+      I was lacking for clarity and progress. Checking them out was the best
+      decision I made after my graduation."
+
+      - K Hashim
+  - image: /img/illustrations-tutorials.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      "Initially I was a bit skeptical before meeting them. There was so much to
+      do and so much uncertainty. EEC gave me confidence and clarity. I felt I
+      was navigating on an unknown island with an experienced guide. Thank you!"
+
+      - T Gupta 
 values:
   heading: Our values
   text: >-
