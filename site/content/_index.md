@@ -16,7 +16,7 @@ intro:
     know the pain and hassle. So, we took it upon us to make this journey easy
     for you. Simply put, we will have couple of coffee talks with you, while we
     sort everything for you, until you are ready to confidently fly to Europe
-    for your next degree.
+    for your next degree. All the key decision will be made by you.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
