@@ -37,7 +37,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Values", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Process", name: "values", widget: "object", fields: [
+          - {label: "Process", name: "process", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/contact/_index.md"
@@ -85,7 +85,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: imageUrl, widget: image}
       - file: "site/content/process/_index.md"
         label: "Process Page"
-        name: "values"
+        name: "process"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
