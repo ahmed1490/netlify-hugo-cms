@@ -4,32 +4,19 @@ image: /img/process-bg.jpg
 process:
   - heading: 1. Our first coffee talk
     imageUrl: /img/process-1-coffee.jpg
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+    text: "In this meeting we listen your needs. You then get to know about different course structure, destinations, universities and institutions.\LWe also explain you with the complete process, university and visa requirements and you receive a checklist of documents to submit.\L\L We are available for any queries throughout the process."
   - heading: 2. Documents gathering & selecting institutions
     imageUrl: /img/process-2-document.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+    text: >-
+      Email your documents from the checklist and desired institutions to us. We
+      then prepare your applications to the desired institutions on your behalf.
+      We keep you updated about the status.
   - heading: 3. Receive offer letter(s) and make your decision
     imageUrl: /img/process-3-offer.jpg
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+    text: "We notify you as soon as there are admission offers. You make your decision and notify within the time period.\L\LYou receive another checklist for fulfilling rest of the university requirements in order to receive an “unconditional admission”. "
   - heading: 4. Our second coffee and the eligibility checklist
     imageUrl: /img/process-4-checklist.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: "In this meeting we will look at various steps needed and to fulfil the eligibility of university and visa commission. We will talk about exact details since this can be pretty extensive and tricky.\L You will set you up in order to be best suited for success in both visa application and university admission.\L\L We will cover student bank account opening, language certifications, possible language institute admission in Germany, health insurance, visa documents, appointment and interview."
   - heading: 'Finally, apply your visa!'
     imageUrl: /img/process-5-visa.jpg
     text: >
