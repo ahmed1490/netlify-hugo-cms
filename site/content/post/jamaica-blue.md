@@ -1,6 +1,6 @@
 ---
 title: Scholarships for education
-date: 2017-05-04T15:04:00.000Z
+date: 2018-05-04T15:04:00.000Z
 description: >
   State-sponsored scholarships where many state governments offer scholarship
   programs to students, take a look at some of them:
