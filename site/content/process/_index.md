@@ -19,10 +19,10 @@ process:
     text: "In this meeting we will look at various steps needed and to fulfil the eligibility of university and visa commission. We will talk about exact details since this can be pretty extensive and tricky.\L You will set you up in order to be best suited for success in both visa application and university admission.\L\L We will cover student bank account opening, language certifications, possible language institute admission in Germany, health insurance, visa documents, appointment and interview."
   - heading: 'Finally, apply your visa!'
     imageUrl: /img/process-5-visa.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: >-
+      Attend your visa interview fully confident that you have prepared the best
+      of your ability. You will be notified about the response from the German
+      consulate and if the response is yes, then you begin your relocation
+      planning and start of a new phase in your life!
 ---
 
